@@ -1,6 +1,8 @@
 package com.codex.dsa.btree;
 
-// Inorder successor would be the next big number in in order travesal 
+// In order successor Binary Search Tree
+//
+
 public class InorderSuccessor {
 
 	public static Node getSuccessor(Node root, Node successorNode, int key) {
