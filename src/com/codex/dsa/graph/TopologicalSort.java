@@ -4,14 +4,17 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Example : To get the build order of a project Data serializations Scheduling
+ * Example : To get the build order of a project Data serialisations Scheduling
  * Job from given dependencies Applicable only for DAG not for any other type of
  * Graph
  * 
  * 
  * Process with given data build a Graph Apply Topological Sort on that Graph
  * 
- * @author anutiwar
+ * @author CodeX Developer
+ * 
+ *  Article to read about the topological sorting and its technique 
+ *  		https://www.geeksforgeeks.org/topological-sorting/
  *
  */
 public class TopologicalSort {

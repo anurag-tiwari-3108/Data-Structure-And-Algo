@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 
-import com.codex.dsa.btree.Node;
+import com.codex.dsa.tree.Node;
 
 /* Construct the following tree
 			   8
