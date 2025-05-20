@@ -37,8 +37,6 @@ public class DutchNationalFlagAlgo {
 			}
 			
 		}
-//		for (int val : arr) {
 			System.out.print(Arrays.toString(arr));
-//		}
 	}
 }

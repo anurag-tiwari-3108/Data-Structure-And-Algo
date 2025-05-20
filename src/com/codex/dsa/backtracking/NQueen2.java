@@ -13,11 +13,11 @@ import java.util.List;
  *         The aim here is to count all the possible solution and store all the
  *         solutions in List<List<Integer>> result param
  */
-public class NQueenII {
+public class NQueen2 {
 	static List<List<String>> res;
 	public static void main(String[] args) {
 		int N = 8;
-		NQueenII queen = new NQueenII();
+		NQueen2 queen = new NQueen2();
 		int[][] board = new int[N][N];
 		int[] count = new int[1]; // to store the count of available solutions
 		res = new ArrayList<>();

@@ -7,6 +7,8 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+
+// Similer to twosum prob
 public class SubarraySumK {
 
 	public static void main(String[] args) {

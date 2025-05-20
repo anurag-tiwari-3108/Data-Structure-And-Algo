@@ -3,7 +3,9 @@ package com.codex.dsa.graph;
 import java.util.Arrays;
 import java.util.List;
 
-public class CycleInUnDirectedGraph {
+
+// DFS Approach to check if there is any cycle in graph
+public class CycleInUnDirectedGraphDFS {
 
 	public static void main(String[] args) {
 		List<Edge> edges = Arrays.asList(new Edge(1, 2), new Edge(1, 7), new Edge(1, 8), new Edge(2, 3), new Edge(2, 6),
