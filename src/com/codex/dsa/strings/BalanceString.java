@@ -1,4 +1,4 @@
-package com.codex.dsa.string;
+package com.codex.dsa.strings;
 
 
 // A string is called balanced when every letter ocurring in the string, appears both in upper and lowercase. 

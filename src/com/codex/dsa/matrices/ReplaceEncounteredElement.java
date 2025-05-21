@@ -1,5 +1,4 @@
-package com.codex.dsa.matrix;
-
+package com.codex.dsa.matrices;
 /**
  * you are given a matrix and you need to replace all the 2;s in that matrix
  * which is surrounded by 1 from upper-lower-left-right side.

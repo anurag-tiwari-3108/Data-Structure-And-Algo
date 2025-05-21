@@ -1,4 +1,4 @@
-package com.codex.dsa.string;
+package com.codex.dsa.strings;
 
 /**
  * kitten —> sitten (substitution of s for k) 

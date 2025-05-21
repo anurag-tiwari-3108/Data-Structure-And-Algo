@@ -1,4 +1,4 @@
-package com.codex.dsa.string;
+package com.codex.dsa.strings;
 
 import java.util.HashSet;
 import java.util.Set;

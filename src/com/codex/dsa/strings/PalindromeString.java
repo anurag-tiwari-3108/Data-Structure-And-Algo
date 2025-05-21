@@ -1,7 +1,5 @@
-/**
- * 
- */
-package com.codex.dsa.string;
+
+package com.codex.dsa.strings;
 
 public class PalindromeString {
 	public static void main(String[] args) {

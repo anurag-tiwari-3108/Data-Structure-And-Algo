@@ -1,4 +1,4 @@
-package com.codex.dsa.tree;
+package com.codex.dsa.trees;
 
 /**
  * Single class to handle insert/travesal/search/all_types_of_delete operations

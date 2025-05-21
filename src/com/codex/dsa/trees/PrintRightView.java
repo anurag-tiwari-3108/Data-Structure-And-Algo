@@ -1,4 +1,4 @@
-package com.codex.dsa.tree;
+package com.codex.dsa.trees;
 
 public class PrintRightView {
 	static int max_level = 0;

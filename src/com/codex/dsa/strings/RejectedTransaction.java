@@ -1,4 +1,4 @@
-package com.codex.dsa.string;
+package com.codex.dsa.strings;
 
 /**
  *  Klarna OA : Need to return a list of transaction which are greater then the allowed credit limit

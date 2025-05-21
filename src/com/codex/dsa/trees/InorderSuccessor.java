@@ -1,4 +1,4 @@
-package com.codex.dsa.tree;
+package com.codex.dsa.trees;
 
 // In order successor Binary Search Tree
 //

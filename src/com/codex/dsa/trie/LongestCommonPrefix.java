@@ -1,4 +1,4 @@
-package com.codex.dsa.tries;
+package com.codex.dsa.trie;
 
 import java.util.HashMap;
 import java.util.LinkedList;

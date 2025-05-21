@@ -1,4 +1,4 @@
-package com.codex.dsa.string;
+package com.codex.dsa.strings;
 
 /**
  * The longest common substring of ABABC and BABCA is BABC

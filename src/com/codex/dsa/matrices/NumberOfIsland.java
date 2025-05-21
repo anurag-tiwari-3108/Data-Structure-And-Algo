@@ -1,5 +1,4 @@
-package com.codex.dsa.matrix;
-
+package com.codex.dsa.matrices;
 /**
  * Island from matrix using DFS and BFS *
  * Time complexity would be O(N)

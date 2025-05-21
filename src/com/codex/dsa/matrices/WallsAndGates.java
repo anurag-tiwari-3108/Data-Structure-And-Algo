@@ -1,5 +1,4 @@
-package com.codex.dsa.matrix;
-
+package com.codex.dsa.matrices;
 // https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/286-walls-and-gates.html
 
 

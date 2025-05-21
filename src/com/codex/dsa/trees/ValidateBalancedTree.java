@@ -1,4 +1,4 @@
-package com.codex.dsa.tree;
+package com.codex.dsa.trees;
 
 public class ValidateBalancedTree {
 	public static boolean isValidBalancedTree(Node root) {

@@ -1,4 +1,4 @@
-package com.codex.dsa.matrix;
+package com.codex.dsa.matrices;
 
 import java.util.ArrayList;
 import java.util.Arrays;

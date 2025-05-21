@@ -1,4 +1,4 @@
-package com.codex.dsa.tree;
+package com.codex.dsa.trees;
 
 import java.util.Iterator;
 import java.util.LinkedList;

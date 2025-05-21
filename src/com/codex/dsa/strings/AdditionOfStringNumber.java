@@ -1,4 +1,4 @@
-package com.codex.dsa.string;
+package com.codex.dsa.strings;
 
 import java.util.ArrayList;
 import java.util.List;

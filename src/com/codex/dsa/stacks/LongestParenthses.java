@@ -1,4 +1,4 @@
-package com.codex.dsa.stack;
+package com.codex.dsa.stacks;
 
 public class LongestParenthses {
 

@@ -1,4 +1,4 @@
-package com.codex.dsa.string;
+package com.codex.dsa.strings;
 
 public class ConvertNumberToExcelColumn {
 	// Function to convert a given number to an Excel column

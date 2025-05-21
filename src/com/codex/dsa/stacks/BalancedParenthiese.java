@@ -1,4 +1,4 @@
-package com.codex.dsa.stack;
+package com.codex.dsa.stacks;
 
 import java.util.Stack;
 

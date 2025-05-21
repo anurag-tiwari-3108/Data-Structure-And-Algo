@@ -1,5 +1,4 @@
-package com.codex.dsa.tries;
-
+package com.codex.dsa.trie;
 import java.util.ArrayList;
 import java.util.List;
 

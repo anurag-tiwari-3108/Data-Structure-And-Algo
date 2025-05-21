@@ -1,5 +1,4 @@
-package com.codex.dsa.matrix;
-
+package com.codex.dsa.matrices;
 public class RotateMatrix {
 
 }
