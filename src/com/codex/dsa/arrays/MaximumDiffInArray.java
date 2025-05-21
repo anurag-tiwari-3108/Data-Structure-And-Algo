@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 //Given an integer array, find the maximum difference between two elements in it such that the smaller element 
 
 // appears before the larger element.

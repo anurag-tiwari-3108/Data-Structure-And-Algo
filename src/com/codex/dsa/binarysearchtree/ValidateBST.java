@@ -1,6 +1,4 @@
-package com.codex.dsa.bstree;
-
-import com.codex.dsa.tree.Node;
+package com.codex.dsa.binarysearchtree;
 
 public class ValidateBST {
 	
@@ -49,7 +47,7 @@ public class ValidateBST {
 		return true;
 	}
 	public static void main(String[] args) {
-		Node root = Node.getRandomBinaryTree();
+		Node root = new Node(10); // Example root node
 		System.out.println("isBST :: " + validateBST(root));
 		System.out.println("isBST with best approach :: " + validateBSTBestApproach(root, Long.MIN_VALUE, Long.MAX_VALUE));
 	}

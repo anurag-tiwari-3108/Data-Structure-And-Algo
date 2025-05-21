@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 // In-place merge two sorted array
 

@@ -1,4 +1,4 @@
-package com.codex.dsa.hashing;
+package com.codex.dsa.hashmaps;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

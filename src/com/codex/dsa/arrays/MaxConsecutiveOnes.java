@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 /**
  * walmart labs murugan.sundararaj@walmartlabs.com

@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -36,7 +36,7 @@ public class SubarrayWithZeroSum {
 				System.out.println(nums[i]+ " <==> "+hashMap);
 				// find all subarrays with the same sum
 				for (Integer value : list) {
-					System.out.println("Subarray [" + (value + 1) + "…" + i + "]");
+					System.out.println("Subarray [" + (value + 1) + "ï¿½" + i + "]");
 				}
 			}
 

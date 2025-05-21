@@ -1,4 +1,4 @@
-package com.codex.dsa.dp;
+package com.codex.dsa.dynamicprogramming;
 
 /**
  * Given an array of pairs of numbers of size N. In every pair, the first number

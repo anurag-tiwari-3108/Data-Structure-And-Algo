@@ -1,4 +1,4 @@
-package com.codex.dsa.hashing;
+package com.codex.dsa.hashmaps;
 
 public class Node {
 	int key;

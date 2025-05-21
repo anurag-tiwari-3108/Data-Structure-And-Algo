@@ -1,4 +1,4 @@
-package com.codex.dsa.greedy;
+package com.codex.dsa.greedyalgorithms;
 
 import java.util.HashMap;
 

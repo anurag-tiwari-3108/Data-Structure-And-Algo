@@ -1,4 +1,4 @@
-package com.codex.dsa.bitmagic;
+package com.codex.dsa.bitwise;
 
 public class ProductOf1 {
 

@@ -1,6 +1,6 @@
-package com.codex.dsa.bstree;
+package com.codex.dsa.binarysearchtree;
 
-import com.codex.dsa.tree.Node;
+import com.codex.dsa.binarysearchtree.Node;
 
 // Create a BST from sorted increasing order array with minimal hieght
 public class CreateMinimalBST {

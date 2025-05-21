@@ -1,4 +1,4 @@
-package com.codex.dsa.dc;
+package com.codex.dsa.divideandconquer;
 
 import java.util.HashMap;
 import java.util.Map;

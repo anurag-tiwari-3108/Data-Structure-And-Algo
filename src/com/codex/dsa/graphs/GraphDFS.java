@@ -1,4 +1,4 @@
-package com.codex.dsa.graph;
+package com.codex.dsa.graphs;
 
 public class GraphDFS {
 	public static void main(String[] args) {

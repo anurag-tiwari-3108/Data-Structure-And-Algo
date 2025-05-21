@@ -1,4 +1,4 @@
-package com.codex.dsa.hashing;
+package com.codex.dsa.hashmaps;
 
 public class HashcodeAndEquals {
 	Employee emp_1 = new Employee(1, "Emp-1");

@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 /**
  * https://www.techiedelight.com/length-of-smallest-subarray-with-sum-greater-number/

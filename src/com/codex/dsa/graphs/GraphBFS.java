@@ -1,4 +1,4 @@
-package com.codex.dsa.graph;
+package com.codex.dsa.graphs;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

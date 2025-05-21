@@ -1,4 +1,4 @@
-package com.codex.dsa.btrack;
+package com.codex.dsa.backtracking;
 
 /**
  * Given a dictionary, a method to do lookup in dictionary and a M x N board
@@ -42,7 +42,7 @@ public class WordBoggle {
 			System.out.println(word);
 
 		for (int row = i - 1; row <= i + 1 && row < M; row++) {
-			for (int col = j - 1; col <= j + 1 && col < N; col++) {
+			for (int col = j - 1; j <= j + 1 && col < N; col++) {
 				if (row >= 0 && col >= 0 && !isVisited[row][col]) {
 					searchWord(boggle, isVisited, row, col, word);
 				}

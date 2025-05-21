@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 import java.util.Arrays;
 import java.util.List;

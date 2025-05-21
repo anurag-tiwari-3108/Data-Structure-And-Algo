@@ -1,4 +1,4 @@
-package com.codex.dsa.hashing;
+package com.codex.dsa.hashmaps;
 
 import java.util.*;
 public class JavaMapEmployeeDemo {
@@ -15,29 +15,29 @@ public class JavaMapEmployeeDemo {
 		System.out.println(cName+"Created 5 Emp Objects");
 		try {
 		aMap.put(emp1, "Working in BFSI emp1");
-		Thread.currentThread().sleep(1000);		
+		Thread.sleep(1000);		
 		aMap.put(emp2, "Working in BFSI emp2");
-		Thread.currentThread().sleep(1000);		
+		Thread.sleep(1000);		
 		aMap.put(emp3, "Working in BFSI emp3");
-		Thread.currentThread().sleep(1000);		
+		Thread.sleep(1000);		
 		aMap.put(emp4, "Working in BFSI emp4");
-		Thread.currentThread().sleep(1000);		
+		Thread.sleep(1000);		
 		aMap.put(emp5, "Working in BFSI emp5");
-		Thread.currentThread().sleep(1000);
+		Thread.sleep(1000);
 		
 		System.out.println(cName+"JavaMapEmployee Data insertion into map is completed");
 
-		Thread.currentThread().sleep(1000);
+		Thread.sleep(1000);
 		System.out.println(aMap.get(emp1));
-		Thread.currentThread().sleep(1000);
+		Thread.sleep(1000);
 		System.out.println(aMap.get(emp2));
-		Thread.currentThread().sleep(1000);
+		Thread.sleep(1000);
 		System.out.println(aMap.get(emp3));
-		Thread.currentThread().sleep(1000);
+		Thread.sleep(1000);
 		System.out.println(aMap.get(emp4));
-		Thread.currentThread().sleep(1000);
+		Thread.sleep(1000);
 		System.out.println(aMap.get(emp5));
-		Thread.currentThread().sleep(1000);
+		Thread.sleep(1000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

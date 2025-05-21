@@ -1,6 +1,6 @@
-package com.codex.dsa.bstree;
+package com.codex.dsa.binarysearchtree;
 
-import com.codex.dsa.tree.Node;
+import com.codex.dsa.binarysearchtree.Node;
 
 public class BSTCRUDOperations {
 	public static Node deleteNodeFromBST(Node root, int key) {

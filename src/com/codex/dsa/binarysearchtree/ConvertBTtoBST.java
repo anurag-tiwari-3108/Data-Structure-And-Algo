@@ -1,10 +1,10 @@
-package com.codex.dsa.bstree;
+package com.codex.dsa.binarysearchtree;
 
 import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 
-import com.codex.dsa.tree.Node;
+import com.codex.dsa.binarysearchtree.Node;
 
 /* Construct the following tree
 			   8

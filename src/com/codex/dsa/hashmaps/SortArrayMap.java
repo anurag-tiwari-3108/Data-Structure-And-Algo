@@ -1,4 +1,4 @@
-package com.codex.dsa.hashing;
+package com.codex.dsa.hashmaps;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -80,4 +80,4 @@ public class SortArrayMap {
 	   }//end try
 	   System.out.println("Goodbye!");
 	}//end main
-	}//end JDBCExample}
+	}//end JDBCExample

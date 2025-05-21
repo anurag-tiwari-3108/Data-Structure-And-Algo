@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 import java.util.Arrays;
 
@@ -25,13 +25,13 @@ public class ProductExceptSelfWithoutDivision {
 		int[] left = new int[n];
 		int[] right = new int[n];
 
-		// `left[i]` stores the product of all elements in subarray[0…i-1]
+		// `left[i]` stores the product of all elements in subarray[0ï¿½i-1]
 		left[0] = 1;
 		for (int i = 1; i < n; i++) {
 			left[i] = A[i - 1] * left[i - 1];
 		}
 
-		// `right[i]` stores the product of all elements in subarray[i+1…n-1]
+		// `right[i]` stores the product of all elements in subarray[i+1ï¿½n-1]
 		right[n - 1] = 1;
 		for (int j = n - 2; j >= 0; j--) {
 			right[j] = A[j + 1] * right[j + 1];

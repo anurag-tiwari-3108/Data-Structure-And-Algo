@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 /**
  * https://www.techiedelight.com/find-subarray-having-given-sum-given-array/

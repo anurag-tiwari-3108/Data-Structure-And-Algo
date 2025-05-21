@@ -1,4 +1,4 @@
-package com.codex.dsa.btrack;
+package com.codex.dsa.backtracking;
 
 /**
  * Given a partially filled 9×9 2D array ‘grid[9][9]’, the goal is to assign

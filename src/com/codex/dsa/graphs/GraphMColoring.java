@@ -1,8 +1,9 @@
-package com.codex.dsa.graph;
+package com.codex.dsa.graphs;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("unchecked")
 public class GraphMColoring {
 	public static void main(String[] args) {
 		int N = 4, M = 3;

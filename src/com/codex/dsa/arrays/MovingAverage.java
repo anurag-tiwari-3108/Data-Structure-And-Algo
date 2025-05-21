@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 // https://evelynn.gitbooks.io/google-interview/content/moving_average_from_data_stream.html
 

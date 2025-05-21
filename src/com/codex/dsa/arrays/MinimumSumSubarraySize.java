@@ -1,4 +1,4 @@
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 /**
  * https://www.techiedelight.com/find-minimum-sum-subarray-given-size-k/

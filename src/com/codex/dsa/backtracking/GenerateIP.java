@@ -1,4 +1,4 @@
-package com.codex.dsa.btrack;
+package com.codex.dsa.backtracking;
 /**
  * Program to generate all possible valid IP addresses from given string
  * @author anutiwar

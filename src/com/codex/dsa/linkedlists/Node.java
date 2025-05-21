@@ -1,4 +1,4 @@
-package com.codex.dsa.linkedList;
+package com.codex.dsa.linkedlists;
 
 public class Node {
 

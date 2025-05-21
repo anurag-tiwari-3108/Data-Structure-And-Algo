@@ -1,4 +1,4 @@
-package com.codex.dsa.dp;
+package com.codex.dsa.dynamicprogramming;
 
 import java.util.Arrays;
 

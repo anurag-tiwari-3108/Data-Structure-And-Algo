@@ -1,4 +1,4 @@
-package com.codex.dsa.btrack;
+package com.codex.dsa.backtracking;
 
 public class RatInMaze {
 	public static int N;

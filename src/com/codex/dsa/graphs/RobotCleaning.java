@@ -1,4 +1,4 @@
-package com.codex.dsa.graph;
+package com.codex.dsa.graphs;
 
 
 // LeetCode Robot Cleaning Room Question :

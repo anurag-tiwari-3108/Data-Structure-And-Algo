@@ -1,12 +1,12 @@
-package com.codex.dsa.btrack;
+package com.codex.dsa.backtracking;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Placing N-Queen in such a way that no 2 Queen share the same
- * row/column/diagonal Q – – – – – – – – – – – Q – – – – – – – – – – Q – – – – –
- * Q – – – – Q – – – – – – – – – – – Q – – Q – – – – – – – – – Q – – – –
+ * row/column/diagonal Q – – – – – – – – – – – Q – – – – – – – – – – Q – – – – – 
+ * Q – – – – Q – – – – – – – – – – – Q – – Q – – – – – – – – – Q – – – – 
  * 
  * @author anutiwar
  *

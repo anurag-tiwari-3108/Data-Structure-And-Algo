@@ -1,4 +1,4 @@
-package com.codex.dsa.graph;
+package com.codex.dsa.graphs;
 
 // Bipartite Graph : if a graph is having odd length cycle then it would not be bipartite graph, 
 // if its a even length graph then it would be bipartite graph

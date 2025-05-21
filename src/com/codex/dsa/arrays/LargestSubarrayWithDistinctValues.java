@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.codex.dsa.array;
+package com.codex.dsa.arrays;
 
 /**
  * Given an integer array, find the largest subarray formed by consecutive

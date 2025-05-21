@@ -1,4 +1,4 @@
-package com.codex.dsa.graph;
+package com.codex.dsa.graphs;
 
 import java.util.Iterator;
 import java.util.Stack;
@@ -18,7 +18,7 @@ public class TopologicalSortStack {
 			}
 		}
 
-		stack.push(new Integer(V));
+		stack.push(V);
 
 	}
 
